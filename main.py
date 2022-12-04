@@ -10,7 +10,7 @@ src="https://www.googletagmanager.com/gtag/js?id=UA-250915546-1"></script>
  gtag('config', 'UA-250915546-1');
 </script>
  """
- return prefix_google + "Hello World"
+ return prefix_google + "Hello, World!"
 
 from flask import Flask
 
